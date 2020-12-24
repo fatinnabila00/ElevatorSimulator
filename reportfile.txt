@@ -1,0 +1,7 @@
+
+
+###Elevator statistic###
+Service request processed : 0
+Passenger served : 0
+Total floors traveled : 0
+Total time taken : 0
